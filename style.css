@@ -52,9 +52,19 @@ h2 {
 
 h1, h2 {
     color: #291B1A;
-    margin-bottom: 4px;
+    margin-bottom: 24px;
 }
 
 ul {
     padding-left: 24px;
+}
+
+footer {
+    color:antiquewhite;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
 }
